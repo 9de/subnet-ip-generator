@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 Run the script:
 ```bash
-python ip_generator.py
+python subnettoIp.py
 ```
 
 Available commands:
